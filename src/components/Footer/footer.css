@@ -1,0 +1,29 @@
+.myborder{
+    border-radius:0 ;
+}
+.myheight{
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+.myfont{
+    font-size: 50px;
+    font-family: sans-serif;
+    line-height: 24px;
+}
+button{
+    border-radius: unset;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+a:hover{
+    color: #8A93C9;
+}
+.myfonth{
+    font-size: 16px;
+    font-weight: 500;
+}
+

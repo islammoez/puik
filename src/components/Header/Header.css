@@ -1,0 +1,30 @@
+
+.myborder{
+    border-radius:0 ;
+}
+
+.myfont{
+    font-size: 50px;
+    font-family: sans-serif;
+    line-height: 24px;
+}
+button{
+    border-radius: unset;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+a:hover{
+    color: #8A93C9;
+}
+.myfonth{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+nav img{
+    height: 42px;
+    width: 75px;
+}
